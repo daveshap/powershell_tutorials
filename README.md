@@ -18,4 +18,4 @@ Public repo for reference material on my PowerShell tutorial series on YouTube: 
 | esxi_join_active_directory | Example of how to join an ESXi host to an Active Directory domain and set a security group for administration |
 | simple_function | Instantiate a simple function with named arguments and returns information |
 
-¯\_(ツ)_/¯
+# ¯\\_(ツ)_/¯
