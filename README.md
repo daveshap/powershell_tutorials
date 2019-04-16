@@ -1,11 +1,13 @@
 # PowerShell Tutorials
 Public repo for reference material on my PowerShell tutorial series on YouTube: https://www.youtube.com/channel/UCvKRFNawVcuz4b9ihUTApCg
 
-## Getting Started
+# Getting Started
 
 1. Download and/or clone this repo
 2. Run "install_modules.ps1"
 3. Install the prerequisites starting at the top
+
+# Contents
 
 | File | Description |
 | --- | --- |
