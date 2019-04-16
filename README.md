@@ -4,7 +4,7 @@ Public repo for reference material on my PowerShell tutorial series on YouTube: 
 # Getting Started
 
 1. Download and/or clone this repo
-2. Run "install_modules.ps1"
+2. Run `install_modules.ps1`
 3. Install the prerequisites starting at the top
 
 # Contents
